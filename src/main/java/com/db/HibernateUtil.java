@@ -21,7 +21,7 @@ public class HibernateUtil {
             pro.put(Environment.DRIVER, "com.mysql.jdbc.Driver");
             pro.put(Environment.URL, "jdbc:mysql://localhost:3306/expense_tracker");
             pro.put(Environment.USER, "root");
-            pro.put(Environment.PASS, "Anoop@018018");
+            pro.put(Environment.PASS, "YourPassword");
             pro.put(Environment.DIALECT, "org.hibernate.dialect.MySQL5Dialect");
             pro.put(Environment.HBM2DDL_AUTO, "update");
             pro.put(Environment.SHOW_SQL, true);
