@@ -13,12 +13,7 @@
 <body class="bg-light">
 	<%@include file="component/navbar.jsp"%>
 
-	<!-- Background Image & Overlay -->
-	<div class="bg-image">
-	    <div class="overlay"></div>
-	</div>
-
-	<!-- Centered Content -->
+	
 	<div class="container p-5 content-box">
 		<div class="row">
 			<div class="col-md-6 offset-md-3">
