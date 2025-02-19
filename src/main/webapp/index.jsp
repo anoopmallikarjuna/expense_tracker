@@ -13,7 +13,7 @@
 	
 	<%@include file="component/navbar.jsp"%>
 	
-	<!-- Welcome Message with Light Blue Background -->
+	
 <div class="container-fluid text-center py-4" style="background-color: #d0ebff;">
     <h2 class="fw-bold text-primary display-5">Welcome to Expense Tracker Application</h2>
     <p class="text-dark lead">Manage all your expenses at one place.</p>
@@ -22,7 +22,7 @@
 
 <div class="container-fluid">
     <div class="row align-items-center py-5">
-        <!-- Left Most About Text (Fully Justified) -->
+       
         <div class="col-md-6 text-center ps-5">
             <h3 class="fw-bold display-6">About Us</h3>
             <p class="fs-5 justify-text">
@@ -37,13 +37,13 @@
             </p>
         </div>
 
-        <!-- Right Half: Enlarged Image -->
+       
       <div class="col-md-6 text-center">
     <img src="img/exp_5.jpg" class="img-fluid rounded" style="max-width: 80%; height: auto;" alt="About Image">
 		</div>
 </div>
 
-<!-- Custom CSS to Fully Justify Text -->
+
 <style>
     .justify-text {
         text-align: justify;
